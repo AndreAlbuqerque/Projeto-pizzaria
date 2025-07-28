@@ -122,7 +122,7 @@ p {
     padding: 1rem 1.25rem 0 ;
 }
 
-.menu-list p {
+.menu-list p {  /*Ajuste para n quebrar boxs de LI*/
     max-height: 6rem;
     overflow: hidden;
     text-overflow: ellipsis;
